@@ -36,3 +36,6 @@ function isEvenOrOdd(number) {
         document .getElementById("result").innerText = "Please ener a valid number.";
     }
 }
+function redirecttooddorevenpage(){
+  window.location.href = "oddorEven.html";
+}
