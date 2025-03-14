@@ -39,3 +39,7 @@ function isEvenOrOdd(number) {
 function redirecttooddorevenpage(){
   window.location.href = "oddorEven.html";
 }
+function redirecttogame(){
+  window.location.href = "famerGame.html";
+}
+
